@@ -25,7 +25,12 @@
 🚧  Finalizado  🚧
 </h3>
 
-### ✅ Resultado
+
+### 💻 Projeto
+
+PayFlow é uma aplicação que serve para controlar os seus boletos. Projeto desenvolvida durante evento NLW Together na trilha de Flutter. 
+
+### ✅ Demonstração
 <p>
   <img src="https://github.com/gabriel-nt/Payflow/blob/master/assets/images/cover.png" alt="PayFlow" />
 </p>
